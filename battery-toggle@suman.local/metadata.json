@@ -1,0 +1,8 @@
+{
+  "name": "Lenovo Battery Toggle",
+  "description": "Toggles IdeaPad conservation mode to protect battery health.",
+  "uuid": "battery-toggle@suman.local",
+  "shell-version": [
+    "3.36"
+  ]
+}

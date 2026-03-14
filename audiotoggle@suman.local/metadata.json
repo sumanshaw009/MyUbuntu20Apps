@@ -1,0 +1,6 @@
+{
+  "name": "Audio Hardware Toggle",
+  "description": "Bypass broken jack and toggle audio routing.",
+  "uuid": "audiotoggle@suman.local",
+  "shell-version": ["3.36", "3.38", "40", "41", "42"]
+}
